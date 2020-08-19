@@ -105,11 +105,10 @@ Hello World!
 <br>
 by adsoft
 
-$ sudo docker build -t perfuse/test .
+$ sudo docker build -t <dockeruser>/my-node .
 
-$ sudo docker run --name containernode -p 8080:8080 -v $PWD/src:/src -d adsoft/my-node
-$ sudo docker push adsoft/my-node
+$ sudo docker run --name containernode -p 8080:8080 -v $PWD/src:/src -d <dockeruser>/my-node
+$ sudo docker push <dockeruser>/my-node
 
-7.- block chain example
-8.- bot python example
+
 
