@@ -1,0 +1,23 @@
+
+Laboratorio docker con contenido estatico generado por un framework
+
+
+Realizar prototipo de Frontend en workstation
+
+1.- Instalacion de node version 10.x
+
+2.- Checar version de node en terminal
+$ ng --version
+ 3.- instalar angular
+
+$ npm install -g @angular/cli 4.- Laboratorio angular con leaflet  https://www.digitalocean.com/community/tutorials/angular-angular-and-leaflet
+$ ng serve
+5.- crear repositorio para proyecto
+
+6.- hacer build del proyecto
+
+$ ng build$ git add ..
+$ git commit ..
+$ git pushEn servidor centos
+
+$ git clone <repositorio>$ sudo docker run -dit --name <user>-front-map -p 8xxx:80 -v /home/<user>/<repositorio>/dist/<projectname>:/usr/local/apache2/htdocs/ httpdLaboratorio Adicional.https://www.digitalocean.com/community/tutorials/angular-angular-and-leaflet-marker-service
