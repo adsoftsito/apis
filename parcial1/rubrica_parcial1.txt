@@ -1,0 +1,60 @@
+Rubrica parcial 1
+
+1.- Documento (word, powerpoint, pdf, latex) de Vision y alcance de un proyecto de software.
+    - Opcionalmente puede tratar de un visor en mapas, graficas, dashboards y analitica de una base de datos
+      real de al menos 1,000,000 de registros de algun tema especificado: salud, netflix, spotify, juegos,
+      inegi, entre otros.
+
+	Valor: 1 - 10 pts
+
+2.-  Documento con un tabla de plan de riesgos que visualizan en su proyecto (tecnicos falta
+      de entrenamiento, actitudes, tecnologicos, entre otros)
+
+        Valor: 1- 5 pts
+
+3.- Documento con un plan de comunicacion efectiva entre los miembros del equipo.
+        Valor: 1- 5 pts
+  
+4.- Documento con arquitectura tecnologica del proyecto ( lenguajes de front, apis, base de datos, cache, 
+     graphql, analitica,  contenedores, entre otros)
+
+        Valor: 1-10 pts
+
+5.- Administracion del proyecto en proyectos de github con Kanban Automatizados.
+       
+        Valor: 1-10 pts   
+
+6.- Un solo repositorio para el proyecto con modelo Git Branching Model con branchs: 
+	- master
+        - hotfixes
+        - release
+        - develop
+        - 1 branch por cada issue dentro del proyecto
+
+	Valor: 1-10 pts
+
+7.- Cada issue declarado debera tener un su definicion, mockup, diagrama de clases (si aplica)  y las n pruebas que debera pasar para ser aceptado.
+
+       Valor: 1-10 pts
+
+8.- El front debera ser publicado en 2 ambientes:
+       - Testing:    (branch release) en servidor de la clase (en usuario del lider del equipo)
+       - Produccion: (branch master) en servidor propio del equipo ( debera ser instalado y configurado por el mismo equipo)
+
+        Valor: 1-10 pts
+
+9.- Prototipo basico de front con landing page, login y template del proyecto global ( en caso de implementar
+    alguna funcionalidad basica con datos, debera ser a nivel de hard code o  array list, no codificar apis
+    hacia la base de datos aun)
+
+       Valor: 1-10 pts.
+
+10.- Los branchs master, hotfixes, release y develop deberan estar protegidos por github action para rechazar
+      push y pull request que no cumplan con los scripts de install, build o test.
+
+       Valor: 1-10 pts
+
+11.- Alcanzar un code-coverage del prototipo en hard-code de 100% en cuanto a las pruebas unitarias codificadas
+
+       Valor: 1-10 pts.
+      
