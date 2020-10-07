@@ -1,0 +1,104 @@
+% Author: Adolfo Centeno 
+% Waves Lab
+
+ 
+\documentclass{beamer}
+\setbeamertemplate{navigation symbols}{}
+\usepackage[utf8]{inputenc}
+\usepackage{beamerthemeshadow}
+\usepackage{listings}
+\usepackage{hyperref}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!50!red,
+  urlcolor=green!70!black
+}
+
+\begin{document}
+\title{ITESM}  
+\subtitle{Campus Puebla\\ADMINISTRACION DE PROYECTOS DE INGENIERIA DE SOFTWARE
+}
+\author{Adolfo Centeno}
+\date{\today} 
+
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}\frametitle{Java SpringBoot - Security, JsonWebToken}
+\tableofcontents
+\end{frame} 
+
+
+\section{W9 - Sesion }
+
+\begin{frame}
+
+    
+\textbf{W9 - Actividades:}
+
+
+\begin{block}{clone spring template with Security dependency}
+
+
+ 
+    \emph{git clone https://github.com/adsoftsito/springboot-jwt.git}
+\end{block}
+
+\begin{enumerate}
+
+\item check jwt dependency  \href{https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile}{pom.xml}
+
+\item ssh -i user user@104.198.244.0    
+       
+\item sudo -u postgres psql
+
+\item
+	check Run and Check Results in theJsonWebToken Lab: \href{https://grokonez.com/spring-framework/spring-boot/spring-security-jwt-authentication-postgresql-restapis-springboot-spring-mvc-spring-jpa}{JsonWebToken Lab}.	
+\item
+    Add  \href{https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Estado.java}{model}, \href{https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/EstadoController.java}{controller}, \href{https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/EstadoRepository.java}{repository} for estados
+    
+\item
+    Add  model, controller, repository for municipios
+\item
+    Add  model, controller, repository for categorias
+\item
+    Add  model, controller, repository for empresas
+\item
+    Populate database from csv
+\item
+    Test api with \href{https://www.postman.com/downloads/}{Postman}.	
+\item
+	Run as Docker \href{https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile}{Dockerfile}
+	 
+\end{enumerate}
+
+	
+
+
+\end{frame}
+
+
+\section{W9  - Tareas }
+
+\begin{frame}
+
+
+\textbf{W9  - Tareas}
+
+
+\begin{enumerate}
+\item
+	Publicar como Docker en servidor de pruebas con el puerto asignado, conectar \href{https://github.com/adsoftsito/bigdata-maps}{frontend de mapas} con rest-api (Nota: por el momento correr frontend en localhost)
+	
+\end{enumerate} 
+
+
+\end{frame}
+
+
+
+
+\end{document}
