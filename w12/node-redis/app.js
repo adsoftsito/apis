@@ -7,20 +7,31 @@ client.on('connect', function() {
   
 });
 
+/*
+client.set('framework-adsoft', 'keras', function(err, reply) {
+  console.log(reply);
+});
 
-client.exists('query1', function(err, reply) {
+client.get('framework-adsoft', function(err, reply) {
+    console.log(reply);
+});
+*/
+
+
+client.exists('query-adsoft', function(err, reply) {
 
     if (reply === 1) {
         console.log('exists');
 
-	client.get('query1', function(err, reply) {
+	client.get('query-adsoft', function(err, reply) {
     		console.log(reply);
 	});
 
     } else {
 
         console.log('doesn\'t exist');
-        client.set('query1', '{"id":1, "name": "adsoft"}') 
+        client.set('query-adsoft', '{"id":1, "name": "adsoft"}') 
 
     }
 });
+

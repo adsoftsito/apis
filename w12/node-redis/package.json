@@ -1,5 +1,5 @@
 {
-  "name": "node-redis",
+  "name": "redis-cli",
   "version": "1.0.0",
   "description": "node - redis",
   "main": "app.js",
@@ -15,5 +15,6 @@
     "ioredis": "^4.19.0",
     "redis": "^3.0.2",
     "redis-rejson": "^1.0.0"
-  }
+  },
+  "devDependencies": {}
 }
