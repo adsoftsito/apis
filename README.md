@@ -4,9 +4,9 @@
 1. Instalar [github](https://git-scm.com/downloads)
 2. Clonar repositorio de clase
 
-$ git clone https://github.com/adsoftsito/apis.git
-$ cd apis
-$ cd ssh
+- $ git clone https://github.com/adsoftsito/apis.git
+- $ cd apis
+- $ cd ssh
 
 3. Probar conectividad con SSH a servidor
 
