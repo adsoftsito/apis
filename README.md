@@ -1,4 +1,4 @@
-# Administracion de proyectos de software - [lista de clase](https://docs.google.com/spreadsheets/d/1YNW7OGA0Tlg5OZIzGApcs5kpw6OqHBJ-dGrphITIaFE/edit#gid=0), [syllabus](https://docs.google.com/spreadsheets/d/1YNW7OGA0Tlg5OZIzGApcs5kpw6OqHBJ-dGrphITIaFE/edit#gid=0)
+# Administracion de proyectos de software - [lista de clase](https://docs.google.com/spreadsheets/d/1YNW7OGA0Tlg5OZIzGApcs5kpw6OqHBJ-dGrphITIaFE/edit#gid=0), [syllabus](https://docs.google.com/document/d/1IgpdZBVJzwDjh2xaYJEgKxX7Jbx3TZR3/edit#)
 # Semana 1 - Conectividad a servidor, repaso de Linux y editor vi
 
 1. Instalar [github](https://git-scm.com/downloads)
