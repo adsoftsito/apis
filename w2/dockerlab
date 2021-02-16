@@ -1,9 +1,9 @@
 
-1.- install docker
+1.- Crear cuenta en https://hub.docker.com/
 
-2.- https://hub.docker.com/
+---------------------------------
 
-3.- run hello-world
+2.- run hello-world
 
 $ sudo docker run hello-world
 $ sudo docker images
@@ -11,21 +11,22 @@ $ sudo docker ps
 $ sudo docker ps -a
 $ sudo docker rm xxx
 
+---------------------------------
 
-4.- hello world Apache
+3.- hello world Apache
 $ sudo docker login
 $ sudo docker pull httpd
 $ sudo docker images httpd
 $ sudo docker run --name container-httpd -p 80:80 -d httpd
 $ curl localhost
 $  sudo docker exec -it xxx bash
----------------
+      ---------------
 # apt-get update
 # apt-get install vim-tiny
 # cd htdocs
 # vi index.html
 # exit
----------------
+       ---------------
 $ curl localhost
 $ sudo docker ps
 $ sudo docker stop xxx
@@ -33,8 +34,19 @@ $ sudo docker ps
 $ sudo docker ps -a
 $ sudo docker start xxx
 
+---------------------------------
 
-5.- create Dockerfile, push, pull
+4.- create docker with volumen (-v)
+
+$ mkdir www
+$ cd www
+$ vi index.html
+$ cd ..
+$ sudo docker run -dit --name <user>-container -p 8xxx:80 -v /home/<user>/www:/usr/local/apache2/htdocs/ httpd
+
+----------------------
+
+5.- create Docker from Scratch, push, pull
 
 $ mkdir nodeimage
 $ cd nodeimage
