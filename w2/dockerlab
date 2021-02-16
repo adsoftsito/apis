@@ -14,10 +14,11 @@ $ sudo docker rm xxx
 ---------------------------------
 
 3.- hello world Apache
+
 $ sudo docker login
 $ sudo docker pull httpd
 $ sudo docker images httpd
-$ sudo docker run --name container-httpd -p 80:80 -d httpd
+$ sudo docker run --name container-httpd -p 80xx:80 -d httpd
 $ curl localhost
 $  sudo docker exec -it xxx bash
       ---------------
@@ -73,7 +74,7 @@ RUN npm install
 WORKDIR /src
 
 # Open up external access to port 80.
-EXPOSE  8080
+EXPOSE  80xx
 
 # Run startup command.
 CMD ["node", "/src/server.js"]
@@ -119,7 +120,7 @@ by adsoft
 
 $ sudo docker build -t <dockeruser>/my-node .
 
-$ sudo docker run --name containernode -p 8080:8080 -v $PWD/src:/src -d <dockeruser>/my-node
+$ sudo docker run --name containernode -p 80xx:8080 -v $PWD/src:/src -d <dockeruser>/my-node
 $ sudo docker push <dockeruser>/my-node
 
 
