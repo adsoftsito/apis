@@ -27,3 +27,10 @@ $  ssh -i user user@35.225.196.111
 1. Crear repositorio personal para tareas de la clase (apis-nombre-apellido), crear carpeta t1, crear ejemplos de programas en diferentes lenguajes de programacion
 2. En repositorio crear carpeta t2, en t2.txt subir url de imagen nodejs (Punto 5) en docker hub
 3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T3 y subir SS de la pagina
+
+# Semana 2 - Docker con Angular
+
+1. Realizar Lab de Angular [Maps](https://github.com/adsoftsito/apis/blob/master/w3/dockerfront.pdf)
+
+# Semana 2, Tareas (Fecha entrega: 22/feb/2021)
+
