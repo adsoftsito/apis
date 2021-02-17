@@ -34,3 +34,5 @@ $  ssh -i user user@35.225.196.111
 
 # Semana 2, Tareas (Fecha entrega: 22/feb/2021)
 
+1. Publicar el proyecto de Leaflet en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
+
