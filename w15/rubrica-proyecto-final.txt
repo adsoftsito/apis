@@ -11,7 +11,7 @@ Tareas 20 %
 
 Avance del Proyecto 80%
 
-Fecha: lun 7 dic. 09:00 am
+Fecha: Pendiente 10:00 am
 
 
 1.- Avance de la administracion del proyecto en proyectos de github con Kanban Automatizados, mostrar columnas con Reviews, Tareas cerradas, pendientes.
