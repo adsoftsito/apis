@@ -32,13 +32,18 @@ $  ssh -i user user@35.225.196.111
 
 1. Realizar Lab de Angular [Maps](https://github.com/adsoftsito/apis/blob/master/w3/dockerfront.pdf)
 
-# Semana 2, Tareas (Fecha entrega: 22/feb/2021)
-
-1. Publicar el proyecto de Leaflet en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
 
 # Semana 3,  Git Branching Model
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
 2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
+
+# Semana 4,  Git Branching Model, React, CI 
+1. Terminar laboratorio [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
+2. Realizar practica con framework [react](https://www.udemy.com/course/react-the-beginners-course/)
+2. Realizar lab de [Integracion continua]()
+
+# Semana 4, Tareas (Fecha entrega: 10/mar/2021)
+1. Publicar el proyecto To do (react) en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
 
 # Rubricas
 
