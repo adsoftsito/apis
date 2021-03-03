@@ -39,8 +39,9 @@ $  ssh -i user user@35.225.196.111
 
 # Semana 4,  Git Branching Model, React, CI 
 1. Terminar laboratorio [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
-2. Realizar practica con framework [react](https://www.udemy.com/course/react-the-beginners-course/)
-2. Realizar lab de [Integracion continua]()
+2. Crear cuenta en [Google Cloud Platform](https://console.cloud.google.com/) para proyecto final
+3. Realizar practica con framework [react](https://www.udemy.com/course/react-the-beginners-course/)
+4. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
 
 # Semana 4, Tareas (Fecha entrega: 10/mar/2021)
 1. Publicar el proyecto To do (react) en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
