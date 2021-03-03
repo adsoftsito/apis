@@ -27,3 +27,27 @@ $  ssh -i user user@35.225.196.111
 1. Crear repositorio personal para tareas de la clase (apis-nombre-apellido), crear carpeta t1, crear ejemplos de programas en diferentes lenguajes de programacion
 2. En repositorio crear carpeta t2, en t2.txt subir url de imagen nodejs (Punto 5) en docker hub
 3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T3 y subir SS de la pagina
+
+# Semana 2 - Docker con Angular
+
+1. Realizar Lab de Angular [Maps](https://github.com/adsoftsito/apis/blob/master/w3/dockerfront.pdf)
+
+
+# Semana 3,  Git Branching Model
+1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
+2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
+
+# Semana 4,  Git Branching Model, React, CI 
+1. Terminar laboratorio [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
+2. Realizar practica con framework [react](https://www.udemy.com/course/react-the-beginners-course/)
+2. Realizar lab de [Integracion continua]()
+
+# Semana 4, Tareas (Fecha entrega: 10/mar/2021)
+1. Publicar el proyecto To do (react) en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
+
+# Rubricas
+
+1. [Parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt)
+2. [Parcial 2](https://github.com/adsoftsito/apis/blob/master/w12/rubricaparcial2.txt)
+3. [Final](https://github.com/adsoftsito/apis/blob/master/w15/rubrica-proyecto-final.txt)
+
