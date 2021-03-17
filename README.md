@@ -48,7 +48,7 @@ $  ssh -i user user@35.225.196.111
 
 # Rubricas
 
-1. [Parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt)
+1. [Parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt) [Ejemplo Documentacion](https://github.com/IvanMtze/spotify_data_docs)
 2. [Parcial 2](https://github.com/adsoftsito/apis/blob/master/w12/rubricaparcial2.txt)
 3. [Final](https://github.com/adsoftsito/apis/blob/master/w15/rubrica-proyecto-final.txt)
 
