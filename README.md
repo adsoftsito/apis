@@ -46,6 +46,15 @@ $  ssh -i user user@35.225.196.111
 # Semana 4, Tareas (Fecha entrega: 10/mar/2021)
 1. Publicar el proyecto To do (react) en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
 
+# Semana 6, API 
+1. Instalar [Java 8](https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html)
+2. En Windows, instalar [mvn](https://mkyong.com/maven/how-to-install-maven-in-windows/) y [sdkman](https://medium.com/ejemplos-de-programacion/instalar-sdkman-en-windows-524ed9ede7b) 
+3. En Linux/Mac, instalar [sdkman](https://sdkman.io)
+4. Usando sdkman instalar [spring](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/html/getting-started-installing-spring-boot.html) 
+5. Realizar	[Java SpringBoot Lab](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/)
+6. Instalar y probar API  con [Postman](https://www.postman.com/downloads/)	
+7. Correr API como Docker usando [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
+
 # Rubricas
 
 1. [Parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt) [Ejemplo Documentacion](https://github.com/IvanMtze/spotify_data_docs)
