@@ -46,7 +46,7 @@ $  ssh -i user user@35.225.196.111
 # Semana 4, Tareas (Fecha entrega: 10/mar/2021)
 1. Publicar el proyecto To do (react) en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
 
-# Semana 6, API 
+# Semana 9, API 
 1. Instalar [Java 8](https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html)
 2. En Windows, instalar [mvn](https://mkyong.com/maven/how-to-install-maven-in-windows/) y [sdkman](https://medium.com/ejemplos-de-programacion/instalar-sdkman-en-windows-524ed9ede7b) 
 3. En Linux/Mac, instalar [sdkman](https://sdkman.io)
