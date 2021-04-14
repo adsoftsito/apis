@@ -57,30 +57,31 @@ $  ssh -i user user@35.225.196.111
 
 # Semana 10, Tokens
 
-1.- Clone spring template with Security dependency: git clone https://github.com/adsoftsito/springboot-jwt.git
-2.- Add Estados :
+1. Clone spring template with Security dependency: git clone https://github.com/adsoftsito/springboot-jwt.git
+
+2. Add Estados :
     [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Estado.java), 
     [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/EstadoController.java),
     [repository](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/EstadoRepository.java) 
     
-3.- Add municipios:
+3. Add municipios :
     [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Municipio.java), 
     [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/MunicipioController.java), 
     [repository](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/MunicipioRepository.java)
 
-4.- Add Categorias:  
+4. Add Categorias:  
     [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Categoria.java), 
     [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/CategoriaController.java),
     [repositry](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/CategoriaRepository.java)
 
-5.- Add Empresas:  
+5. Add Empresas:  
     [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Empresa.java), 
     [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/EmpresaController.java),
     [repository](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/EmpresaRepository.java)
 
-6.- Populate database from csv
-7.- Test api with [postman](https://www.postman.com/downloads/).	
-8.-	Run as Docker with [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
+6. Populate database from csv
+7. Test api with [postman](https://www.postman.com/downloads/).	
+8. Run as Docker with [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
 
 # Rubricas
 
