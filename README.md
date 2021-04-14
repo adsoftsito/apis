@@ -59,12 +59,12 @@ $  ssh -i user user@35.225.196.111
 
 1. Clone spring template with Security dependency: git clone https://github.com/adsoftsito/springboot-jwt.git
 
-2. Add Estados :
+2. Add Estados:
     [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Estado.java), 
     [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/EstadoController.java),
     [repository](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/EstadoRepository.java) 
     
-3. Add municipios :
+3. Add municipios:
     [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Municipio.java), 
     [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/MunicipioController.java), 
     [repository](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/MunicipioRepository.java)
