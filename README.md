@@ -62,10 +62,10 @@ $  ssh -i user user@35.225.196.111
 # Semana 10, Tokens
 0. Crear base de datos en postgres
  - ssh -i user user@35.223.20.167
- - sudo -u postgres createdb <user>-tokens
+ - sudo -u postgres createdb youruser-tokens
  - sudo -u postgres psql
  - postgres > \list
- - postgres > \connect <user>-tokens
+ - postgres > \connect youruser-tokens
  - postgres > \dt
 
 1. Clone spring template with Security dependency: git clone https://github.com/adsoftsito/springboot-jwt.git
