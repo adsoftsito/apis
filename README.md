@@ -60,6 +60,13 @@ $  ssh -i user user@35.225.196.111
 2. Publicas SS de postman del proyecto [Contacts](https://docs.google.com/document/d/14dR8REdc-qQ_6_3ZraRO7BJ-i5_6chEGnXv2iKkWdjI/edit?usp=sharing)
 
 # Semana 10, Tokens
+0. Crear base de datos en postgres
+ - ssh -i user user@35.223.20.167
+ - sudo -u postgres createdb <user>-tokens
+ - sudo -u postgres psql
+ - postgres > \list
+ - postgres > \connect <user>-tokens
+ - postgres > \dt
 
 1. Clone spring template with Security dependency: git clone https://github.com/adsoftsito/springboot-jwt.git
 
