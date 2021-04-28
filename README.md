@@ -89,6 +89,7 @@ $  ssh -i user user@35.225.196.111
 6. Populate database from [csv](https://github.com/adsoftsito/data-science-course/tree/master/day1/dataset) using [pgadmin](https://www.pgadmin.org/download/)
 7. Test api with [postman](https://www.postman.com/downloads/) basado en [Lab tokens](https://grokonez.com/spring-framework/spring-boot/spring-security-jwt-authentication-postgresql-restapis-springboot-spring-mvc-spring-jpa/)	
 8. Run as Docker with [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
+9. Clone [react-spring basic demo](https://github.com/adsoftsito/react-springboot-demo)
 
 # Rubricas
 
