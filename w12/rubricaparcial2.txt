@@ -44,15 +44,15 @@ Avance del Proyecto 80%
        - Controller protegidos por tokens
        - Controller de libre acceso sin tokens
 
-        Valor: 1-10 pts
+        Valor: 1-20 pts
 
 
 7.- Avances de prototipo basico de front con landing page, login, template del proyecto y alguna funcionalidad minima, con conectividad a la REST-API (controllers libres y protegidos por tokens) 
 
-       Valor: 1-10 pts.
+       Valor: 1-20 pts.
 
 
-10.- Alcanzar un code-coverage del prototipo en hard-code de 100% en cuanto a las pruebas unitarias codificadas
+8.- Alcanzar un code-coverage del prototipo en hard-code de 100% en cuanto a las pruebas unitarias codificadas
 
        Valor: 1-10 pts.
       
