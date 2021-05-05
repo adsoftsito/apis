@@ -1,4 +1,15 @@
 Rubrica parcial 2
+NOTAS:
+ - Instalacion de postgres en Centos 7
+ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-centos-7
+ 
+ - Habilitar acceso remoto
+ https://yallalabs.com/linux/how-to-enable-network-remote-access-to-postgresql-database-server/
+ 
+ - Abrir puerto de postgres desde cloud-shell
+ 
+ > gcloud compute firewall-rules create postgres --allow tcp:5432
+ > gcloud compute firewall-rules
 
 Tareas 20 %
 
