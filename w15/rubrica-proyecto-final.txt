@@ -17,6 +17,13 @@ Fecha: Pendiente 10:00 am
 1.- Avance de la administracion del proyecto en proyectos de github con Kanban Automatizados, mostrar columnas con Reviews, Tareas cerradas, pendientes.
        
         Valor: 1-10 pts   
+	
+1.1 - REDIS instalado en servidor de producción (por parte del equipo)
+       Valor: 1-10 pts.
+
+1.2 - Prototipo de REST-API implementado alguna funcionalidad minima de REDIS como cache de base de datos
+       Valor: 1-10 pts.
+
 
 2.- Docker graphql, implementado alguna funcionalidad, consumo desde front
 
