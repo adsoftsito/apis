@@ -46,9 +46,54 @@ $  ssh -i user user@35.225.196.111
 # Semana 4, Tareas (Fecha entrega: 10/mar/2021)
 1. Publicar el proyecto To do (react) en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
 
+# Semana 9, API 
+1. Instalar [Java 8](https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html)
+2. En Windows, instalar [mvn](https://mkyong.com/maven/how-to-install-maven-in-windows/) y [sdkman](https://medium.com/ejemplos-de-programacion/instalar-sdkman-en-windows-524ed9ede7b) 
+3. En Linux/Mac, instalar [sdkman](https://sdkman.io)
+4. Usando sdkman instalar [spring](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/html/getting-started-installing-spring-boot.html) 
+5. Realizar	[Java SpringBoot Lab](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/)
+6. Instalar y probar API  con [Postman](https://www.postman.com/downloads/)	
+7. Correr API como Docker usando [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
+
+# Semana 10, Tareas (Fecha entrega: 10/mar/2021)
+1. Publicar SS de postman con las llamadas a la API corriendo docker del proyecto Answer/questions
+2. Publicas SS de postman del proyecto [Contacts](https://docs.google.com/document/d/14dR8REdc-qQ_6_3ZraRO7BJ-i5_6chEGnXv2iKkWdjI/edit?usp=sharing)
+
+# Semana 10, Tokens
+0. Crear base de datos en postgres
+ - ssh -i user user@35.223.20.167
+ - sudo -u postgres createdb youruser-tokens
+ - sudo -u postgres psql
+ - postgres > \list
+ - postgres > \connect youruser-tokens
+ - postgres > \dt
+
+1. Clone spring template with Security dependency: git clone https://github.com/adsoftsito/springboot-jwt.git
+
+2. Add Estados: [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Estado.java), 
+    [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/EstadoController.java),
+    [repository](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/EstadoRepository.java) 
+    
+3. Add municipios: [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Municipio.java), 
+    [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/MunicipioController.java), 
+    [repository](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/MunicipioRepository.java)
+
+4. Add Categorias:  [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Categoria.java), 
+    [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/CategoriaController.java),
+    [repositry](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/CategoriaRepository.java)
+
+5. Add Empresas:  [model](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/model/Empresa.java), 
+    [controller](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/controller/EmpresaController.java),
+    [repository](https://github.com/adsoftsito/maps-api-jwt/blob/master/src/main/java/com/grokonez/jwtauthentication/repository/EmpresaRepository.java)
+
+6. Populate database from [csv](https://github.com/adsoftsito/data-science-course/tree/master/day1/dataset) using [pgadmin](https://www.pgadmin.org/download/)
+7. Test api with [postman](https://www.postman.com/downloads/) basado en [Lab tokens](https://grokonez.com/spring-framework/spring-boot/spring-security-jwt-authentication-postgresql-restapis-springboot-spring-mvc-spring-jpa/)	
+8. Run as Docker with [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
+9. Clone [react-spring basic demo](https://github.com/adsoftsito/react-springboot-demo)
+
 # Rubricas
 
-1. [Parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt)
+1. [Parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt) [Ejemplo Documentacion](https://github.com/IvanMtze/spotify_data_docs)
 2. [Parcial 2](https://github.com/adsoftsito/apis/blob/master/w12/rubricaparcial2.txt)
 3. [Final](https://github.com/adsoftsito/apis/blob/master/w15/rubrica-proyecto-final.txt)
 
