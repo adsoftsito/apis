@@ -96,7 +96,7 @@ $  ssh -i user user@35.225.196.111
 1. Instalar [Redis](https://redis.io/topics/quickstart)
 2. Redis - [Comandos basicos](https://codeburst.io/redis-what-and-why-d52b6829813)
 3. Redis - [Tipos de datos](https://redis.io/topics/data-types-intro)
-4. Laboratorio [Redis como Cache con Node]()
+4. Laboratorio [Redis como Cache con Node](https://livecodestream.dev/post/beginners-guide-to-redis-and-caching-with-nodejs/)
 
 # Rubricas
 
