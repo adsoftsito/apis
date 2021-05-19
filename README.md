@@ -91,6 +91,13 @@ $  ssh -i user user@35.225.196.111
 8. Run as Docker with [Dockerfile](https://github.com/adsoftsito/ng5-api/blob/master/Dockerfile)
 9. Clone [react-spring basic demo](https://github.com/adsoftsito/react-springboot-demo)
 
+# Semana 12, Redis (Remote Dictionary Server)
+
+1. Instalar [Redis](https://redis.io/topics/quickstart)
+2. Redis - [Comandos basicos](https://codeburst.io/redis-what-and-why-d52b6829813)
+3. Redis - [Tipos de datos](https://redis.io/topics/data-types-intro)
+4. Laboratorio [Redis como Cache con Node]()
+
 # Rubricas
 
 1. [Parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt) [Ejemplo Documentacion](https://github.com/IvanMtze/spotify_data_docs)
