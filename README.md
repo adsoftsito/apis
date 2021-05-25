@@ -102,27 +102,26 @@ $  ssh -i user user@35.225.196.111
 # Semana 13, GraphQL
 ## Opcional: Repaso de python
 	
-1. \href{https://github.com/adsoftsito/python/blob/master/w2/helloworld.py}{helloworld},
-2.	\href{https://github.com/adsoftsito/python/blob/master/w2/variables.py}{variables},
-3.	\href{https://github.com/adsoftsito/python/blob/master/w2/operators.py}{operators},
-4.	\href{https://github.com/adsoftsito/python/blob/master/w2/placeholders.py}{placeholders},
-5.	\href{https://github.com/adsoftsito/python/blob/master/w2/lists.py}{lists},
-6.	\href{https://github.com/adsoftsito/python/blob/master/w3/dictionaries.py}{dictionaries},
-7.	\href{https://github.com/adsoftsito/python/blob/master/w3/tuples.py}{tuples},
-8.	\href{https://github.com/adsoftsito/python/blob/master/w3/conditionals.py}{conditionals},
-9.	\href{https://github.com/adsoftsito/python/blob/master/w4/for-helloworld.py}{for-helloworld},
-10.	\href{https://github.com/adsoftsito/python/blob/master/w4/for-math.py}{for-mathematics},
-11.	\href{https://github.com/adsoftsito/python/blob/master/w4/for-data.py}{for-data},
-12.	\href{https://github.com/adsoftsito/python/blob/master/w4/while-helloworld.py}{while-helloworld},
-13.	\href{https://github.com/adsoftsito/python/blob/master/w4/while-conditional.py}{while-if},
-14.	\href{https://github.com/adsoftsito/python/blob/master/w5/files.py}{files} 
+1. [helloworld](https://github.com/adsoftsito/python/blob/master/w2/helloworld.py)
+2. [variables](https://github.com/adsoftsito/python/blob/master/w2/variables.py)
+3. [operators](https://github.com/adsoftsito/python/blob/master/w2/operators.py)
+4. [placeholders](https://github.com/adsoftsito/python/blob/master/w2/placeholders.py)
+5. [lists](https://github.com/adsoftsito/python/blob/master/w2/lists.py)
+6. [dictionaries](https://github.com/adsoftsito/python/blob/master/w3/dictionaries.py)
+7. [tuples](https://github.com/adsoftsito/python/blob/master/w3/tuples.py)
+8. [conditionals](https://github.com/adsoftsito/python/blob/master/w3/conditionals.py)
+9. [for-helloworld](https://github.com/adsoftsito/python/blob/master/w4/for-helloworld.py)
+10. [for-mathematics](https://github.com/adsoftsito/python/blob/master/w4/for-math.py)
+11. [for-data](https://github.com/adsoftsito/python/blob/master/w4/for-data.py)
+12. [while-helloworld](https://github.com/adsoftsito/python/blob/master/w4/while-helloworld.py)
+13. [while-if](https://github.com/adsoftsito/python/blob/master/w4/while-conditional.py)
+14. [files](https://github.com/adsoftsito/python/blob/master/w5/files.py)
 	
  ## GraphQL
  
 1. Que es [GraphQL](https://www.howtographql.com/basics/0-introduction/)
-
 2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/)
-
+3. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [Docker-Compose](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)
 
 # Rubricas
 
