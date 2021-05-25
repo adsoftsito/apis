@@ -99,6 +99,31 @@ $  ssh -i user user@35.225.196.111
 4. Laboratorio [Redis como Cache con Node](https://livecodestream.dev/post/beginners-guide-to-redis-and-caching-with-nodejs/)
 5. Correr como Docker usando [Dockerfile](https://github.com/adsoftsito/node-redis/blob/master/Dockerfile)
 
+# Semana 13, GraphQL
+## Opcional: Repaso de python
+	
+1. \href{https://github.com/adsoftsito/python/blob/master/w2/helloworld.py}{helloworld},
+2.	\href{https://github.com/adsoftsito/python/blob/master/w2/variables.py}{variables},
+3.	\href{https://github.com/adsoftsito/python/blob/master/w2/operators.py}{operators},
+4.	\href{https://github.com/adsoftsito/python/blob/master/w2/placeholders.py}{placeholders},
+5.	\href{https://github.com/adsoftsito/python/blob/master/w2/lists.py}{lists},
+6.	\href{https://github.com/adsoftsito/python/blob/master/w3/dictionaries.py}{dictionaries},
+7.	\href{https://github.com/adsoftsito/python/blob/master/w3/tuples.py}{tuples},
+8.	\href{https://github.com/adsoftsito/python/blob/master/w3/conditionals.py}{conditionals},
+9.	\href{https://github.com/adsoftsito/python/blob/master/w4/for-helloworld.py}{for-helloworld},
+10.	\href{https://github.com/adsoftsito/python/blob/master/w4/for-math.py}{for-mathematics},
+11.	\href{https://github.com/adsoftsito/python/blob/master/w4/for-data.py}{for-data},
+12.	\href{https://github.com/adsoftsito/python/blob/master/w4/while-helloworld.py}{while-helloworld},
+13.	\href{https://github.com/adsoftsito/python/blob/master/w4/while-conditional.py}{while-if},
+14.	\href{https://github.com/adsoftsito/python/blob/master/w5/files.py}{files} 
+	
+ ## GraphQL
+ 
+1. Que es [GraphQL](https://www.howtographql.com/basics/0-introduction/)
+
+2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/)
+
+
 # Rubricas
 
 1. [Parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt) [Ejemplo Documentacion](https://github.com/IvanMtze/spotify_data_docs)
