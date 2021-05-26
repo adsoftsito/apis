@@ -120,8 +120,9 @@ $  ssh -i user user@35.225.196.111
  ## GraphQL
  
 1. Que es [GraphQL](https://www.howtographql.com/basics/0-introduction/)
-2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/)
-3. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [Docker-Compose](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)
+2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/), crear archivo [requirements.txt](https://github.com/adsoftsito/adsoft_hackernews/blob/master/requirements.txt)
+4. Crear archivo [.env](https://github.com/adsoftsito/adsoft_hackernews/blob/master/.env)
+5. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [docker-Compose.yml](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)
 
 # Rubricas
 
