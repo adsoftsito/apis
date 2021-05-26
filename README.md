@@ -106,7 +106,7 @@ $  ssh -i user user@35.225.196.111
 2. [variables](https://github.com/adsoftsito/python/blob/master/w2/variables.py)
 3. [operators](https://github.com/adsoftsito/python/blob/master/w2/operators.py)
 4. [placeholders](https://github.com/adsoftsito/python/blob/master/w2/placeholders.py)
-5. [lists](https://github.com/adsoftsito/python/blob/master/w2/lists.py)
+5. [lists](https://github.com/adsoftsito/python/blob/master/w3/lists.py)
 6. [dictionaries](https://github.com/adsoftsito/python/blob/master/w3/dictionaries.py)
 7. [tuples](https://github.com/adsoftsito/python/blob/master/w3/tuples.py)
 8. [conditionals](https://github.com/adsoftsito/python/blob/master/w3/conditionals.py)
