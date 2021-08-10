@@ -10,7 +10,7 @@
 
 3. Probar conectividad con SSH a servidor
 
-$  ssh -i user user@35.225.196.111
+$  ssh -i user user@34.125.173.24
 
 4. Repaso de comandos linux
 
