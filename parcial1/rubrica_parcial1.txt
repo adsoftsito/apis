@@ -1,4 +1,4 @@
-Rubrica parcial 1
+Rubrica parcial 1, fecha entrega:  17/sep/2021
 
 1.- Documento (word, powerpoint, pdf, latex) de Vision y alcance de un proyecto de software.
     - Opcionalmente puede tratar de un visor en mapas, graficas, dashboards y analitica de una base de datos
