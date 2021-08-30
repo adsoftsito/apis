@@ -38,13 +38,18 @@ $  ssh -i user user@34.125.173.24
 2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
 
 # Semana 4,  Git Branching Model, React, CI 
+0. Revisar rubrica de [parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt)
+
 1. Terminar laboratorio [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
 2. Crear cuenta en [Google Cloud Platform](https://console.cloud.google.com/) para proyecto final
-3. Realizar practica con framework [react](https://www.udemy.com/course/react-the-beginners-course/)
+3. Realizar practica con framework [Angular](https://www.digitalocean.com/community/tutorials/angular-angular-and-leaflet)
 4. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
 
 # Semana 4, Tareas (Fecha entrega: 10/mar/2021)
-1. Publicar el proyecto To do (react) en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
+1. Publicar el proyecto Angular en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T4 y subir SS de la pagina
+
+
+# Parcial 2
 
 # Semana 9, API 
 1. Instalar [Java 8](https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html)
