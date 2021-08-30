@@ -34,12 +34,12 @@ $  ssh -i user user@34.125.173.24
 
 
 # Semana 3,  Git Branching Model
+0. Revisar rubrica de [parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt)
+
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
 2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
 
 # Semana 4,  Git Branching Model, React, CI 
-0. Revisar rubrica de [parcial 1](https://github.com/adsoftsito/apis/blob/master/parcial1/rubrica_parcial1.txt)
-
 1. Terminar laboratorio [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
 2. Crear cuenta en [Google Cloud Platform](https://console.cloud.google.com/) para proyecto final
 3. Realizar practica con framework [Angular](https://www.digitalocean.com/community/tutorials/angular-angular-and-leaflet)
