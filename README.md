@@ -51,6 +51,33 @@ $  ssh -i user user@34.125.173.24
 
 # Parcial 2
 
+# Semana 7, GraphQL
+## Opcional: Repaso de python
+	
+1. [helloworld](https://github.com/adsoftsito/python/blob/master/w2/helloworld.py)
+2. [variables](https://github.com/adsoftsito/python/blob/master/w2/variables.py)
+3. [operators](https://github.com/adsoftsito/python/blob/master/w2/operators.py)
+4. [placeholders](https://github.com/adsoftsito/python/blob/master/w2/placeholders.py)
+5. [lists](https://github.com/adsoftsito/python/blob/master/w3/lists.py)
+6. [dictionaries](https://github.com/adsoftsito/python/blob/master/w3/dictionaries.py)
+7. [tuples](https://github.com/adsoftsito/python/blob/master/w3/tuples.py)
+8. [conditionals](https://github.com/adsoftsito/python/blob/master/w3/conditionals.py)
+9. [for-helloworld](https://github.com/adsoftsito/python/blob/master/w4/for-helloworld.py)
+10. [for-mathematics](https://github.com/adsoftsito/python/blob/master/w4/for-math.py)
+11. [for-data](https://github.com/adsoftsito/python/blob/master/w4/for-data.py)
+12. [while-helloworld](https://github.com/adsoftsito/python/blob/master/w4/while-helloworld.py)
+13. [while-if](https://github.com/adsoftsito/python/blob/master/w4/while-conditional.py)
+14. [files](https://github.com/adsoftsito/python/blob/master/w5/files.py)
+	
+ ## GraphQL
+ 
+1. Que es [GraphQL](https://www.howtographql.com/basics/0-introduction/)
+2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/), crear archivo [requirements.txt](https://github.com/adsoftsito/adsoft_hackernews/blob/master/requirements.txt)
+4. Crear archivo [.env](https://github.com/adsoftsito/adsoft_hackernews/blob/master/.env)
+5. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [docker-Compose.yml](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)
+
+
+
 # Semana 9, API 
 1. Instalar [Java 8](https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html)
 2. En Windows, instalar [mvn](https://mkyong.com/maven/how-to-install-maven-in-windows/) y [sdkman](https://medium.com/ejemplos-de-programacion/instalar-sdkman-en-windows-524ed9ede7b) 
@@ -103,31 +130,6 @@ $  ssh -i user user@34.125.173.24
 3. Redis - [Tipos de datos](https://redis.io/topics/data-types-intro)
 4. Laboratorio [Redis como Cache con Node](https://livecodestream.dev/post/beginners-guide-to-redis-and-caching-with-nodejs/)
 5. Correr como Docker usando [Dockerfile](https://github.com/adsoftsito/node-redis/blob/master/Dockerfile)
-
-# Semana 13, GraphQL
-## Opcional: Repaso de python
-	
-1. [helloworld](https://github.com/adsoftsito/python/blob/master/w2/helloworld.py)
-2. [variables](https://github.com/adsoftsito/python/blob/master/w2/variables.py)
-3. [operators](https://github.com/adsoftsito/python/blob/master/w2/operators.py)
-4. [placeholders](https://github.com/adsoftsito/python/blob/master/w2/placeholders.py)
-5. [lists](https://github.com/adsoftsito/python/blob/master/w3/lists.py)
-6. [dictionaries](https://github.com/adsoftsito/python/blob/master/w3/dictionaries.py)
-7. [tuples](https://github.com/adsoftsito/python/blob/master/w3/tuples.py)
-8. [conditionals](https://github.com/adsoftsito/python/blob/master/w3/conditionals.py)
-9. [for-helloworld](https://github.com/adsoftsito/python/blob/master/w4/for-helloworld.py)
-10. [for-mathematics](https://github.com/adsoftsito/python/blob/master/w4/for-math.py)
-11. [for-data](https://github.com/adsoftsito/python/blob/master/w4/for-data.py)
-12. [while-helloworld](https://github.com/adsoftsito/python/blob/master/w4/while-helloworld.py)
-13. [while-if](https://github.com/adsoftsito/python/blob/master/w4/while-conditional.py)
-14. [files](https://github.com/adsoftsito/python/blob/master/w5/files.py)
-	
- ## GraphQL
- 
-1. Que es [GraphQL](https://www.howtographql.com/basics/0-introduction/)
-2. Realizar paso a paso [Graphene Lab](https://www.howtographql.com/graphql-python/0-introduction/), crear archivo [requirements.txt](https://github.com/adsoftsito/adsoft_hackernews/blob/master/requirements.txt)
-4. Crear archivo [.env](https://github.com/adsoftsito/adsoft_hackernews/blob/master/.env)
-5. Desplegar en docker usando [Dockerfile](https://github.com/adsoftsito/graphql-api/blob/master/Dockerfile) y [docker-Compose.yml](https://github.com/adsoftsito/graphql-api/blob/master/docker-compose.yml)
 
 # Rubricas
 
