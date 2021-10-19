@@ -1,4 +1,6 @@
 Rubrica parcial 2
+Fecha entrega :  2/nov/2021
+
 NOTAS:
  - Instalacion de postgres en Centos 7
  https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-centos-7
@@ -13,9 +15,10 @@ NOTAS:
 
 Tareas 20 %
 
-- lab spring-boot answers/questions (SS postman)
-- docker REST-API contact
-- docker REST-API inegi (SS postman)
+- api hackernews en servidor propio puerto 8083
+- laboratorio metas en la vida en puerto   8084
+- conectividad entre front y backend
+
 
 Avance del Proyecto 80%
 
@@ -58,12 +61,13 @@ Avance del Proyecto 80%
         Valor: 1-20 pts
 
 
-7.- Avances de prototipo basico de front con landing page, login, template del proyecto y alguna funcionalidad minima, con conectividad a la REST-API (controllers libres y protegidos por tokens) 
+7.- Avances de prototipo basico de front con issues:
+    - landing page 
+    - login 
+    - crear usuario
+    - template del proyecto  
+    - alguna funcionalidad minima con conectividad a la REST-API (controllers libres y protegidos por tokens) 
 
-       Valor: 1-20 pts.
+       Valor: 1-30 pts.
 
 
-8.- Alcanzar un code-coverage del prototipo en hard-code de 100% en cuanto a las pruebas unitarias codificadas
-
-       Valor: 1-10 pts.
-      
